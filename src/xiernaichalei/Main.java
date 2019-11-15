@@ -1,7 +1,6 @@
 package xiernaichalei;
 
 import java.util.Scanner;
-import java.util.concurrent.locks.ReentrantLock;
 class HelloWorld {
     private int n;
     public HelloWorld( int n){
